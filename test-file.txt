@@ -1,0 +1,8 @@
+AWS_SECRET_ACCESS_KEY=TEST1234567890FAKEKEY
+
+
+
+
+
+
+Adding test secret
